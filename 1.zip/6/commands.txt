@@ -1,0 +1,6 @@
+sudo apt update
+sudp apt install ns2
+sudo apt-get install ns2 nam xgraph
+sudo apt install tcl
+cd Downloads
+ns lab.tcl
